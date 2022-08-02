@@ -12,7 +12,11 @@ h2 {
   color: #006600;
 }
 ul{
-  color: red
+  color: red;
+}
+
+p:hover{
+  color:orange;
 }
 
 #header {
@@ -21,4 +25,16 @@ ul{
 
 .big{
   size: 50px;
+}
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: pink;
+}
+
+a:hover{
+  color:hotpink;
 }
