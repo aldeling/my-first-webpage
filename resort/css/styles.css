@@ -11,6 +11,7 @@ h1 {
 h2 {
   color: #006600;
 }
+
 ul{
   color: red;
 }
@@ -27,14 +28,17 @@ p:hover{
   size: 50px;
 }
 
+/* Unvisited link */
 a:link {
   color: red;
 }
 
-a:visited {
+/* Visited Link */
+a:visited{
   color: pink;
 }
 
+/* Hover on link */
 a:hover{
   color:hotpink;
 }
