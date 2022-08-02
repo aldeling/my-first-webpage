@@ -9,5 +9,5 @@
 ### Known Bugs
   none
 ### License
-[MIT] 
+[GNU GPL3.0](https://choosealicense.com/licenses/gpl-3.0/) 
   Copyright (c) 08/02/22 Athea DeLing Skylan Lew
