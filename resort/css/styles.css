@@ -1,14 +1,24 @@
 body{
-  background-color: #99ffcc;
+  background-color: #006600;
 }
 
 h1 {
- color: #006600;
- text-align: center;
+ color: #181d18;
  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
 
 h2 {
   color: #006600;
+}
+ul{
+  color: red
+}
+
+#header {
+  text-align: center;
+}
+
+.big{
+  size: 50px;
 }
