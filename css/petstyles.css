@@ -9,6 +9,9 @@ h1{
 h2{
   color:#c26174;
 }
+p{
+  color:#ba6e8e;
+}
 .column{
   float: right;
 }
@@ -24,4 +27,7 @@ h2{
   border: 2px solid goldenrod;
   padding: 4px;
   background-color: #FFFDD0
+}
+.highlight{
+  color:lavenderblush;
 }
